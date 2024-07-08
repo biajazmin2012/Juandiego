@@ -1,220 +1,1182 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720453811086 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720469106011 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453814167 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469109180 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453817389 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469112304 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453820505 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469115343 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453823586 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469118413 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453826660 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469121468 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453829731 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469124550 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453832803 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469127631 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453835888 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469130677 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453838972 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469133727 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453842174 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469136920 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453845300 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469140045 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453848379 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469143135 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453851454 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469146204 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453854532 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469149305 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453857642 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469152421 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453860697 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469155537 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453863773 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469158677 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453866830 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469161811 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453869881 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469164875 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453872948 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469167918 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453876021 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469170986 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453879122 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469174035 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453882237 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469177075 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453885403 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469180224 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453888564 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469183276 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453891621 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469186370 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453894664 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469189497 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453897720 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469192533 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453900781 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469195605 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453903831 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469198650 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453906897 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469201765 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453910005 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469204914 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453913051 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469207951 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453916123 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469211018 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453919181 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469214101 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453922349 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469217207 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453925421 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469220280 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453928617 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469223326 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453931910 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469226444 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453935204 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469229547 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453938487 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469232612 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453941604 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469235695 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720453944813 tunnel running, 1 tunnels registered
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469238794 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469241854 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469244920 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469248034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469251112 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469254214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469257301 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469260392 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469263436 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469266493 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469269659 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469272762 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469275806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469278894 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469281956 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469285001 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469288046 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469291200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469294304 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469297388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469300480 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469303531 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469306679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469309735 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469312773 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469315824 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469318958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469322055 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469325153 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469328250 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469331313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469334368 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469337467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469340530 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469343636 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469346769 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469349852 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469352908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469356050 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469359165 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469362370 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469365586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469368689 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469371751 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469374818 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469377889 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469380953 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469384075 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469387119 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469390165 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469393208 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469396253 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469399295 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469402451 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469405790 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469408969 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469412056 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469415124 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469418187 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469421285 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469424324 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469427364 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469430469 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469433521 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469436615 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469439677 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469442768 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469445924 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469448970 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469452070 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469455186 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469458244 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469461287 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469464355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469467407 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469470449 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469473511 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469476656 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469479719 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469482776 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469485827 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469488895 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469491979 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469495018 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469498062 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469501102 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469504196 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469507259 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469510317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469513396 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469516431 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469519494 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469522595 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469525680 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469528808 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469531883 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469535011 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469538222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469541302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469544436 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469547562 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469550782 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469553945 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469557095 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469560182 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469563226 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469566389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469569797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469573031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469576155 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469579272 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469582443 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469585477 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469588530 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469591589 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469594655 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469597748 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469600857 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469603944 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469606980 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469610092 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469613143 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469616193 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469619276 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469622371 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469625448 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469628531 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469631587 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469634620 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469637676 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469640730 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469643922 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469647139 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469650281 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469653344 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469656465 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469659566 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469662622 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469665677 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469668770 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469671840 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469674970 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469678055 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469681264 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469684342 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469687392 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469690559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469693618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469696679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469699715 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469702768 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469705828 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469708915 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720469712050 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+cool-bandwidth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+end-taiwan.gl.at.ply.gg:4614 => 127.0.0.1:4614 (proto: Udp, port count: 1)
